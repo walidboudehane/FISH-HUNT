@@ -1,7 +1,3 @@
-// Athors:  Ithri Kendi 20222832
-//          Walid Boudehane 20206664
-// Date: 29/04/2022         
-
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.geometry.Insets;
